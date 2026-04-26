@@ -1,42 +1,66 @@
-**ai engineer**
+<h1 align="center">Brad — AI Engineer & Independent Researcher</h1>
 
-**building with llms, agents, and developer tools**
+<p align="center"><em>Large Language Models · Agentic Systems · Developer Tooling</em></p>
 
-![Python](https://img.shields.io/badge/Python-Language-informational?style=flat-square&logo=python&logoColor=fafafa&color=bef264)
-![JavaScript](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=javascript&logoColor=fafafa&color=bef264)
-![TypeScript](https://img.shields.io/badge/TypeScript-Language-informational?style=flat-square&logo=typescript&logoColor=fafafa&color=bef264)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-informational?style=flat-square&logo=postgresql&logoColor=fafafa&color=a5f3fc)
-![VIM](https://img.shields.io/badge/VIM-Editor-informational?style=flat-square&logo=vim&logoColor=fafafa&color=a5f3fc)
-
-**currently**
-
-- building the agentic future — open infra, open agents, open weights
-- turning coding agents into real teammates
-- making frontier inference free and accessible to anyone, anywhere
-
-**projects**
-
-- 🤖 **[awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents)** ![](https://img.shields.io/github/stars/bradAGI/awesome-cli-coding-agents?style=flat-square&label=★&color=a5f3fc&labelColor=27272a) — curated directory of terminal-native AI coding agents and harnesses
-- 🧠 **[GraphMemory](https://github.com/bradAGI/GraphMemory)** ![](https://img.shields.io/github/stars/bradAGI/GraphMemory?style=flat-square&label=★&color=a5f3fc&labelColor=27272a) — hybrid graph / vector database for GraphRAG
-- 📱 **[LLM-Shortcut](https://github.com/bradAGI/LLM-Shortcut)** ![](https://img.shields.io/github/stars/bradAGI/LLM-Shortcut?style=flat-square&label=★&color=a5f3fc&labelColor=27272a) — iOS shortcut + Docker endpoint to access LLM models on iOS
-- 📈 **[DSPy-Stock-News-Sentiment-Analyzer](https://github.com/bradAGI/DSPy-Stock-News-Sentiment-Analyzer)** ![](https://img.shields.io/github/stars/bradAGI/DSPy-Stock-News-Sentiment-Analyzer?style=flat-square&label=★&color=a5f3fc&labelColor=27272a) — stock news sentiment analyzer built with DSPy
-- 📚 **[awesome-free-inference](https://github.com/bradAGI/awesome-free-inference)** ![](https://img.shields.io/github/stars/bradAGI/awesome-free-inference?style=flat-square&label=★&color=a5f3fc&labelColor=27272a) — complete guide to free AI/LLM inference APIs (81+ verified models)
-- 🎨 **[ultimate-gemini-skill](https://github.com/bradAGI/ultimate-gemini-skill)** ![](https://img.shields.io/github/stars/bradAGI/ultimate-gemini-skill?style=flat-square&label=★&color=a5f3fc&labelColor=27272a) — standalone Claude Code skill for Gemini 3.1 Flash Image
-- ⚡ **[infer-lite](https://github.com/bradAGI/infer-lite)** ![](https://img.shields.io/github/stars/bradAGI/infer-lite?style=flat-square&label=★&color=a5f3fc&labelColor=27272a) — minimum viable free-LLM gateway (stdlib-only Python)
-- 🔌 **[fi-gateway](https://github.com/bradAGI/fi-gateway)** ![](https://img.shields.io/github/stars/bradAGI/fi-gateway?style=flat-square&label=★&color=a5f3fc&labelColor=27272a) — wire your coding agent to 300+ free LLMs with OpenAI/Anthropic shapes
-- 🆓 **[fi](https://github.com/bradAGI/fi)** ![](https://img.shields.io/github/stars/bradAGI/fi?style=flat-square&label=★&color=a5f3fc&labelColor=27272a) — call free LLMs with your keys via Claude Code skill
-
-**activity**
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/bradAGI)
-
-**get in touch**
-
-my dms are open on x/twitter [@bradAGI](https://x.com/bradAGI)
-
-[![X/Twitter](https://img.shields.io/badge/-@bradAGI-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/bradAGI)
-[![HuggingFace](https://img.shields.io/badge/-brad--agi-FFD21E?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/brad-agi)
+<p align="center">
+  <a href="https://x.com/bradAGI"><img src="https://img.shields.io/badge/X-@bradAGI-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://huggingface.co/brad-agi"><img src="https://img.shields.io/badge/🤗_HuggingFace-brad--agi-FFD21E?style=flat-square" alt="HuggingFace"/></a>
+  <a href="https://github.com/bradAGI"><img src="https://img.shields.io/badge/GitHub-bradAGI-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-> its time to build
+## Profile
+
+I am an independent AI engineer and researcher working at the intersection of **large language models, autonomous agents, and developer infrastructure**. My work centres on advancing open, accessible, and reproducible tooling for the next generation of agentic systems — from coding agents that operate as collaborative teammates to gateways that democratise frontier inference for practitioners worldwide.
+
+## Research Interests
+
+- **Agentic Systems & Tool Use** — designing autonomous, terminal-native coding agents and the harnesses that orchestrate them.
+- **Retrieval-Augmented Generation** — hybrid graph/vector retrieval architectures for grounded reasoning over structured and unstructured corpora.
+- **Open Inference Infrastructure** — lowering the cost and access barrier to frontier model inference through aggregation, routing, and gateway design.
+- **Human–Agent Collaboration** — interfaces and protocols that elevate LLMs from assistants to dependable engineering collaborators.
+
+## Technical Stack
+
+| Domain | Tools & Frameworks |
+| --- | --- |
+| **Languages** | Python · TypeScript · JavaScript |
+| **LLM / Agentic** | DSPy · LangChain · LlamaIndex · OpenAI · Anthropic · Gemini |
+| **Data & Retrieval** | PostgreSQL · pgvector · Neo4j · ChromaDB · Pinecone |
+| **Infrastructure** | Docker · WSL · Linux · Git |
+| **Editor** | Vim · Neovim |
+
+## Selected Projects
+
+| Project | Description |
+| --- | --- |
+| 🤖 [**awesome-cli-coding-agents**](https://github.com/bradAGI/awesome-cli-coding-agents) | Curated directory of terminal-native AI coding agents and harnesses. |
+| 🧠 [**GraphMemory**](https://github.com/bradAGI/GraphMemory) | Hybrid graph/vector database designed for GraphRAG retrieval pipelines. |
+| 📱 [**LLM-Shortcut**](https://github.com/bradAGI/LLM-Shortcut) | iOS Shortcut + Docker endpoint for on-device LLM access. |
+| 📈 [**DSPy-Stock-News-Sentiment-Analyzer**](https://github.com/bradAGI/DSPy-Stock-News-Sentiment-Analyzer) | Programmatic sentiment analysis pipeline implemented in DSPy. |
+| 📚 [**awesome-free-inference**](https://github.com/bradAGI/awesome-free-inference) | Comprehensive index of free AI/LLM inference APIs (81+ verified models). |
+| 🎨 [**ultimate-gemini-skill**](https://github.com/bradAGI/ultimate-gemini-skill) | Claude Code skill for image generation with Gemini 3.1 Flash Image. |
+| ⚡ [**infer-lite**](https://github.com/bradAGI/infer-lite) | Minimum-viable free-LLM gateway implemented in stdlib-only Python. |
+| 🔌 [**fi-gateway**](https://github.com/bradAGI/fi-gateway) | Unified gateway exposing 300+ free LLMs via OpenAI/Anthropic-compatible APIs. |
+| 🆓 [**fi**](https://github.com/bradAGI/fi) | Bring-your-own-key Claude Code skill for invoking free LLMs. |
+
+## Current Work
+
+- Building open, composable infrastructure for the agentic future — *open infra, open agents, open weights*.
+- Designing protocols and tooling that elevate coding agents into reliable engineering teammates.
+- Making frontier inference freely accessible to researchers and developers regardless of geography or budget.
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/bradAGI" alt="GitHub contribution graph for bradAGI"/>
+</p>
+
+## Correspondence
+
+I welcome correspondence on collaborations, research discussion, and open-source contribution. Direct messages on [X/Twitter](https://x.com/bradAGI) are the most reliable channel.
+
+---
+
+<p align="center"><em>"It is time to build."</em></p>
